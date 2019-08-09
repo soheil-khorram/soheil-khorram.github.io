@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soheil Khorram"
+title                    : "Soheil's Website"
 title_separator          : "-"
 name                     : &name "Soheil Khorram"
 description              : &description "Research Associate at UT Dallas"
@@ -45,7 +45,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-read_more                : "enabled" # if enabled, adds a "read more" link to excerpts 
+read_more                : "enabled" # if enabled, adds a "read more" link to excerpts
 future                   : true
 
 # SEO Related
@@ -58,7 +58,7 @@ yandex_site_verification :
 twitter:
   username               : # &twitter "staeiou"
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -82,20 +82,20 @@ author:
   avatar           : "Soheil1.jpg"
   bio              : "Research Associate at <br/> UT Dallas"
   location         : "Richardson, TX"
-  employer         : 
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gdKu-GIAAAAJ&hl=en"
   email            : "khorram.soheil@gmail.com"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "soheil-khorram"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/0000-0001-7215-0532"
@@ -242,7 +242,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
