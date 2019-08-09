@@ -11,6 +11,10 @@ Journal Publications
 
 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [ [pdf](jointly aligning.pdf) ] [ [code](https://code.com/soheil-khorram/MDS-network) ]
 
+asdasd <span style="color:red; font-family:Georgia; font-size:5em;">red.</span> AASDASDA
+asdasd <span style="color:blue; font-family:Georgia; font-size:4em;">red.</span> AASDASDA
+asdasd <span style="color:#3498DB; font-family:Georgia; font-size:3em;">red.</span> AASDASDA
+
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, <span style="color:blue"> Journal of Comparative Linguistic Researches,</span> 2017 (In Persian). [[pdf](designing and recording.pdf)]
 
 3. **Khorram S.**, Sameti H., King S., *“Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”*, EURASIP Journal on Advances in Signal Processing, 2015. [[pdf](soft context clustering.pdf)]
