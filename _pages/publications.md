@@ -9,7 +9,7 @@ layout: archive
 Journal Publications
 --------------------
 
-ddd
+eeeee
 
 This is an example of a [link](http://apple.com "Apple")
 
@@ -63,9 +63,3 @@ Conference Publications
 18. **Khorram S.**, Sameti H., Veisi H., *“LP-Based Over-Sampled Subband Adaptive Noise Canceller for Speech Enhancement in Diffuse Noise Fields”*, 9th IEEE International Conference on Signal Processing (ICSP), 2008. [[pdf](lp_based.pdf)]
 
 19. **Khorram S.**, Sameti H., Veisi H., Abutalebi H. R., *“A New Lattice LP-based Post-filter for Adaptive Noise Cancellers in Mobile and Vehicular Applications”*, 8th IEEE Symposium on Signal Processing and Information Theory, 2008. [[pdf](a new lattice.pdf)]
-
-
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
