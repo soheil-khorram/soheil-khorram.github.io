@@ -63,7 +63,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -117,8 +117,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 45px;
+  height: 45px;
 
   @include breakpoint($large) {
     display: block;
@@ -315,4 +315,3 @@
     margin-right: initial;
   }
 }
-
