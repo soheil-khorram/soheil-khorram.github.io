@@ -9,7 +9,7 @@ author_profile: true
 
 # 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
 
-ccc
+ddd
 
 ## 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
 
