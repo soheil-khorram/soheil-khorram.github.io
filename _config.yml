@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Soheil Khorram"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Soheil Khorram"
+description              : &description "Research Associate at UT Dallas"
+url                      : https://soheil-khorram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "soheil-khorram/soheil-khorram.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : # &twitter "staeiou"
 facebook:
   username               : 
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
-  avatar           : "oban3.jpg"
-  bio              : "Ethnographer of computation and computational ethnographer; research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
-  location         : "Berkeley, CA"
+  name             : "Soheil Khorram"
+  avatar           : "Soheil1.jpg"
+  bio              : "Research Associate at <br/> UT Dallas"
+  location         : "Richardson, TX"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=gdKu-GIAAAAJ&hl=en"
+  email            : "khorram.soheil@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -92,24 +92,24 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : "soheil-khorram"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : # "http://orcid.org/0000-0001-7215-0532"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : # *twitter
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        : # "staeiou"
 
 
 # Reading Files
