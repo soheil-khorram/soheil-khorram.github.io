@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 excerpt: "CV"
 author_profile: true
-layout: archive
+layout: single
 ---
 
 

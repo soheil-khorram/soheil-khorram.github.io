@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
-layout: archive
+layout: single
 ---
 
 Journal Publications
