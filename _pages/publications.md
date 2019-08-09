@@ -3,13 +3,13 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
-layout: single
+layout: archive
 ---
 
 Journal Publications
 --------------------
 
-bbb
+ccc
 
 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
 
