@@ -6,16 +6,24 @@ author_profile: true
 layout: archive
 ---
 
-Journal Publications
---------------------
+Journal Papers
+--------------
 
-1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [ [pdf](jointly aligning.pdf) ] [ [code](https://code.com/soheil-khorram/MDS-network) ]
+<span style="font-size:2em;">
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
+</span>
+[
+<span style="color:blue; font-size:2em;">
+[pdf](jointly aligning.pdf)
+</span>
+]
+[
+<span style="color:green; font-size:2em;">
+[code](https://code.com/soheil-khorram/MDS-network)
+</span>
+]
 
-asdasd <span style="color:red; font-family:Georgia; font-size:5em;">red.</span> AASDASDA
-asdasd <span style="color:blue; font-family:Georgia; font-size:4em;">red.</span> AASDASDA
-asdasd <span style="color:#3498DB; font-family:Georgia; font-size:3em;">red.</span> AASDASDA
-
-2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, <span style="color:blue"> Journal of Comparative Linguistic Researches,</span> 2017 (In Persian). [[pdf](designing and recording.pdf)]
+2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
 
 3. **Khorram S.**, Sameti H., King S., *“Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”*, EURASIP Journal on Advances in Signal Processing, 2015. [[pdf](soft context clustering.pdf)]
 
@@ -23,8 +31,8 @@ asdasd <span style="color:#3498DB; font-family:Georgia; font-size:3em;">red.</sp
 
 5. **Khorram S.**, Sameti H., Bahmaninezhad F., *“Spectral Modeling Based on Gaussian Conditional Random Field for Statistical Parametric Speech Synthesis”*, CSI Journal on Computer Science and Engineering, 2012. [[pdf](spectral modeling.pdf)]
 
-Conference Publications
------------------------
+Conference Papers
+-----------------
 
 1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019. [[pdf](Probabilistic_Permutation_Invariant.pdf "ohhhhh")] [ [code](https://code.com/soheil-khorram/Prob-PIT "Click to download") ]
 
