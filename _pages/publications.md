@@ -3,11 +3,13 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
-layout: archive-taxonomy
+layout: compress
 ---
 
 Journal Publications
 --------------------
+
+aaaa
 
 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
