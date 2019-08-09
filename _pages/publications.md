@@ -11,7 +11,7 @@ Journal Publications
 
 ccc
 
-1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [ [pdf](jointly aligning.pdf) ] [ [code](https://code.com/soheil-khorram/MDS-network) ]
 
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
 
@@ -24,7 +24,7 @@ ccc
 Conference Publications
 -----------------------
 
-1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019. [[pdf](Probabilistic_Permutation_Invariant.pdf)] [[code](https://code.com/soheil-khorram/Prob-PIT)]
+1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019. [[pdf](Probabilistic_Permutation_Invariant.pdf "ohhhhh")] [ [code](https://code.com/soheil-khorram/Prob-PIT "Click to download") ]
 
 2. Nursadul M., **Khorram S.**, Hansen J., *“Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”*, Interspeech, 2019. [[pdf](convolutional_neural_network_based.pdf)] [[code](https://code.com/soheil-khorram/DNN-based-speech-enhancement)]
 
