@@ -3,15 +3,11 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Publications"
 author_profile: true
-layout: single
+layout: archuve
 ---
 
 Journal Publications
 --------------------
-
-eeeee
-
-This is an example of a [link](http://apple.com "Apple")
 
 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [ [pdf](jointly aligning.pdf) ] [ [code](https://code.com/soheil-khorram/MDS-network) ]
 
