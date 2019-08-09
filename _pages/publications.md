@@ -11,11 +11,14 @@ Journal Publications
 Steve Jobs --- Apple Worldwide Developers' Conference, 1997
 {: .small}
 
-:   1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
-  1. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
-  2. **Khorram S.**, Sameti H., King S., *“Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”*, EURASIP Journal on Advances in Signal Processing, 2015. [[pdf](soft context clustering.pdf)]
-  3. **Khorram S.**, Sameti H., King S., Drugman T., *“Context-Dependent Acoustic Modeling Based on Hidden Maximum Entropy Model for Statistical Parametric Speech Synthesis”*, EURASIP Journal on Audio, Speech, and Music Processing, 2014. [[pdf](context-dependent acoustic.pdf)]
-  4. **Khorram S.**, Sameti H., Bahmaninezhad F., *“Spectral Modeling Based on Gaussian Conditional Random Field for Statistical Parametric Speech Synthesis”*, CSI Journal on Computer Science and Engineering, 2012. [[pdf](spectral modeling.pdf)]
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019. [[pdf](jointly aligning.pdf)] [[code](https://code.com/soheil-khorram/MDS-network)]
+{: .small}
+
+<sub>2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]</sub>
+
+  3. **Khorram S.**, Sameti H., King S., *“Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”*, EURASIP Journal on Advances in Signal Processing, 2015. [[pdf](soft context clustering.pdf)]
+  4. **Khorram S.**, Sameti H., King S., Drugman T., *“Context-Dependent Acoustic Modeling Based on Hidden Maximum Entropy Model for Statistical Parametric Speech Synthesis”*, EURASIP Journal on Audio, Speech, and Music Processing, 2014. [[pdf](context-dependent acoustic.pdf)]
+  5. **Khorram S.**, Sameti H., Bahmaninezhad F., *“Spectral Modeling Based on Gaussian Conditional Random Field for Statistical Parametric Speech Synthesis”*, CSI Journal on Computer Science and Engineering, 2012. [[pdf](spectral modeling.pdf)]
 
 Conference Publications
 -----------------------
