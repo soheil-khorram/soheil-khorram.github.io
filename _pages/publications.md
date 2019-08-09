@@ -9,11 +9,27 @@ layout: archive
 Journal Papers
 --------------
 
-asdasd4354
+ohhhh
 
 1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
 [ [<span style="color:blue;">pdf</span>](jointly aligning.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/MDS-network) ]
+
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
+[ [<span style="color:blue;">PDF</span>](jointly aligning.pdf) ]
+[ [<span style="color:green;">CODE</span>](https://code.com/soheil-khorram/MDS-network) ]
+
+<span style="font-size:1em;">
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
+[ [<span style="color:blue;">PDF</span>](jointly aligning.pdf) ]
+[ [<span style="color:green;">CODE</span>](https://code.com/soheil-khorram/MDS-network) ]
+</span>
+
+
+<span style="font-size:1em;">
+1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
+</span>
+
 
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian). [[pdf](designing and recording.pdf)]
 
