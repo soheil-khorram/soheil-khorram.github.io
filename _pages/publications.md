@@ -30,7 +30,7 @@ ohhhh
 Conference Papers
 -----------------
 
-1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019. [ [code]() ]
+1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019.
 [ [<span style="color:blue;">pdf</span>](Probabilistic_Permutation_Invariant.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/Prob-PIT) ]
 
