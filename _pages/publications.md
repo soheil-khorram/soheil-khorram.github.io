@@ -9,82 +9,82 @@ layout: archive
 Journal Papers
 --------------
 
-1. **Khorram S.**, McInnis M., Provost E. M., *“Jointly Aligning and Predicting Continuous Emotion Annotations”*, IEEE Transactions on Affective Computing, 2019.
+1. **Khorram S.**, McInnis M., Provost E. M., “Jointly Aligning and Predicting Continuous Emotion Annotations”, IEEE Transactions on Affective Computing, 2019.
 [ [<span style="color:blue;">pdf</span>](jointly aligning.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/MDS-network) ]
 
-2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., *“Designing and Recording a Speech Database for Persian TTS Systems”*, Journal of Comparative Linguistic Researches, 2017 (In Persian).
+2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., “Designing and Recording a Speech Database for Persian TTS Systems”, Journal of Comparative Linguistic Researches, 2017 (In Persian).
 [ [<span style="color:blue;">pdf</span>](designing and recording.pdf) ]
 
-3. **Khorram S.**, Sameti H., King S., *“Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”*, EURASIP Journal on Advances in Signal Processing, 2015.
+3. **Khorram S.**, Sameti H., King S., “Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”, EURASIP Journal on Advances in Signal Processing, 2015.
 [ [<span style="color:blue;">pdf</span>](soft context clustering.pdf) ]
 
-4. **Khorram S.**, Sameti H., King S., Drugman T., *“Context-Dependent Acoustic Modeling Based on Hidden Maximum Entropy Model for Statistical Parametric Speech Synthesis”*, EURASIP Journal on Audio, Speech, and Music Processing, 2014.
+4. **Khorram S.**, Sameti H., King S., Drugman T., “Context-Dependent Acoustic Modeling Based on Hidden Maximum Entropy Model for Statistical Parametric Speech Synthesis”, EURASIP Journal on Audio, Speech, and Music Processing, 2014.
 [ [<span style="color:blue;">pdf</span>](context-dependent acoustic.pdf) ]
 
-5. **Khorram S.**, Sameti H., Bahmaninezhad F., *“Spectral Modeling Based on Gaussian Conditional Random Field for Statistical Parametric Speech Synthesis”*, CSI Journal on Computer Science and Engineering, 2012.
+5. **Khorram S.**, Sameti H., Bahmaninezhad F., “Spectral Modeling Based on Gaussian Conditional Random Field for Statistical Parametric Speech Synthesis”, CSI Journal on Computer Science and Engineering, 2012.
 [ [<span style="color:blue;">pdf</span>](spectral modeling.pdf) ]
 
 Conference Papers
 -----------------
 
-1. Yousefi M., **Khorram S.**, Hansen J., *“Probabilistic Permutation Invariant Training for Speech Separation”*, Interspeech, 2019.
+1. Yousefi M., **Khorram S.**, Hansen J., “Probabilistic Permutation Invariant Training for Speech Separation”, Interspeech, 2019.
 [ [<span style="color:blue;">pdf</span>](Probabilistic_Permutation_Invariant.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/Prob-PIT) ]
 
-2. Nursadul M., **Khorram S.**, Hansen J., *“Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”*, Interspeech, 2019.
+2. Nursadul M., **Khorram S.**, Hansen J., “Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”, Interspeech, 2019.
 [ [<span style="color:blue;">pdf</span>](convolutional_neural_network_based.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/DNN-based-speech-enhancement) ]
 
-3. **Khorram S.**, McInnis M., Provost E. M., *“Trainable Time Warping: Aligning Time-Series in the Continuous-Time Domain”*, ICASSP, 2019.
+3. **Khorram S.**, McInnis M., Provost E. M., “Trainable Time Warping: Aligning Time-Series in the Continuous-Time Domain”, ICASSP, 2019.
 [ [<span style="color:blue;">pdf</span>](Trainable_Time_Warping.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/TTW) ]
 
-4. Zhang B., **Khorram S.**, Provost E. M., *“Exploiting Acoustic and Lexical Properties of Phonemes to Recognize Valence from Speech”*, ICASSP, 2019.
+4. Zhang B., **Khorram S.**, Provost E. M., “Exploiting Acoustic and Lexical Properties of Phonemes to Recognize Valence from Speech”, ICASSP, 2019.
 [ [<span style="color:blue;">pdf</span>](exploiting_acoustic_and_lexical_properties.pdf) ]
 
-5. **Khorram S.**, Jaiswal M., Gideon J., McInnis M., Provost E. M., *“The PRIORI Emotion Dataset: Linking Mood to Emotion Detected In-the-Wild”*, Interspeech, 2018.
+5. **Khorram S.**, Jaiswal M., Gideon J., McInnis M., Provost E. M., “The PRIORI Emotion Dataset: Linking Mood to Emotion Detected In-the-Wild”, Interspeech, 2018.
 [ [<span style="color:blue;">pdf</span>](BPD_Emotion.pdf) ]
 
-6. Aldeneh Z., **Khorram S.**, Dimitriadis D., Provost E. M., *“Pooling Acoustic and Lexical Features for the Prediction of Valence”*, 19th ACM International Conference on Multimodal Interaction (ICMI), 2017.
+6. Aldeneh Z., **Khorram S.**, Dimitriadis D., Provost E. M., “Pooling Acoustic and Lexical Features for the Prediction of Valence”, 19th ACM International Conference on Multimodal Interaction (ICMI), 2017.
 [ [<span style="color:blue;">pdf</span>](pooling.pdf) ]
 
-7. **Khorram S.**, Aldeneh Z., Dimitriadis D., McInnis M., Provost E. M., *“Capturing Long-term Temporal Dependencies with Convolutional Networks for Continuous Emotion Recognition”*, Interspeech 2017.
+7. **Khorram S.**, Aldeneh Z., Dimitriadis D., McInnis M., Provost E. M., “Capturing Long-term Temporal Dependencies with Convolutional Networks for Continuous Emotion Recognition”, Interspeech 2017.
 [ [<span style="color:blue;">pdf</span>](capturing-long-term.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/neural-network) ]
 
-8. Gideon J., **Khorram S.**, Aldeneh Z., McInnis M., Provost E. M., *“Progressive Neural Networks for Transfer Learning in EmotionRecognition”*, Interspeech 2017.
+8. Gideon J., **Khorram S.**, Aldeneh Z., McInnis M., Provost E. M., “Progressive Neural Networks for Transfer Learning in EmotionRecognition”, Interspeech 2017.
 [ [<span style="color:blue;">pdf</span>](progressive.pdf) ]
 
-9. Gideon J., Zhang B., Aldeneh Z., Kim Y., **Khorram S.**, Le D., and Provost E. M., *“Wild Wild Emotion: A Multimodal Ensemble Approach”*, 18th ACM International Conference on Multimodal Interaction (ICMI), 2016.
+9. Gideon J., Zhang B., Aldeneh Z., Kim Y., **Khorram S.**, Le D., and Provost E. M., “Wild Wild Emotion: A Multimodal Ensemble Approach”, 18th ACM International Conference on Multimodal Interaction (ICMI), 2016.
 [ [<span style="color:blue;">pdf</span>](wild-wild-emotion.pdf) ]
 
-10. **Khorram S.**, Gideon J., McInnis M., Provost E. M., *“Recognition of Depression in Bipolar Disorder: Leveraging Cohort and Person-Specific Knowledge”*, Interspeech, 2016.
+10. **Khorram S.**, Gideon J., McInnis M., Provost E. M., “Recognition of Depression in Bipolar Disorder: Leveraging Cohort and Person-Specific Knowledge”, Interspeech, 2016.
 [ [<span style="color:blue;">pdf</span>](depression.pdf) ]
 
-11. **Khorram S.**, Sameti H., Bahmaninezhad F., *“Context-Dependent Deterministic Plus Stochastic Model”*, 12th IEEE International Conference on Signal Processing (ICSSP), 2014.
+11. **Khorram S.**, Sameti H., Bahmaninezhad F., “Context-Dependent Deterministic Plus Stochastic Model”, 12th IEEE International Conference on Signal Processing (ICSSP), 2014.
 [ [<span style="color:blue;">pdf</span>](context-dependent.pdf) ]
 
-12. **Khorram S.**, Bahmaninezhad F., Sameti H., *“Speech Synthesis Based on Gaussian Conditional Random Fields”*, International Symposium on Artificial Intelligence and Signal Processing (AISP), 2013.
+12. **Khorram S.**, Bahmaninezhad F., Sameti H., “Speech Synthesis Based on Gaussian Conditional Random Fields”, International Symposium on Artificial Intelligence and Signal Processing (AISP), 2013.
 [ [<span style="color:blue;">pdf</span>](speech synthesis.pdf) ]
 
-13. Saleh F. S., Shams B., Sameti H., **Khorram S.**, *“An Automatic Prosodic Event Detector Using MSD HMMs for Persian Language”*, International Symposium on Artificial Intelligence and Signal Processing (AISP), 2013.
+13. Saleh F. S., Shams B., Sameti H., **Khorram S.**, “An Automatic Prosodic Event Detector Using MSD HMMs for Persian Language”, International Symposium on Artificial Intelligence and Signal Processing (AISP), 2013.
 [ [<span style="color:blue;">pdf</span>](an_automatic_prosodic.pdf) ]
 
-14. Bahmaninezhad F., **Khorram S.**, Sameti H., *“Average Voice Modeling Based on Unbiased Decision Trees”*, Advances in Non-linear Speech Processing, 2013.
+14. Bahmaninezhad F., **Khorram S.**, Sameti H., “Average Voice Modeling Based on Unbiased Decision Trees”, Advances in Non-linear Speech Processing, 2013.
 [ [<span style="color:blue;">pdf</span>](average-voice-modeling.pdf) ]
 
-15. Bahmaninezhad F., Sameti H., **Khorram S.**, *“HMM-Based Persian Speech Synthesis Using Limited Adaptation Data”*, 11th IEEE International Conference on Signal Processing (ICSP), 2012.
+15. Bahmaninezhad F., Sameti H., **Khorram S.**, “HMM-Based Persian Speech Synthesis Using Limited Adaptation Data”, 11th IEEE International Conference on Signal Processing (ICSP), 2012.
 [ [<span style="color:blue;">pdf</span>](HMM-based Persian.pdf) ]
 
-16. **Khorram S.**, Sameti H., Veisi H., *“An Optimum MMSE Post-Filter for Adaptive Noise Cancellers in Automobile Environment”*, International Conference on Information Science, Signal Processing and Their Applications, 2012.
+16. **Khorram S.**, Sameti H., Veisi H., “An Optimum MMSE Post-Filter for Adaptive Noise Cancellers in Automobile Environment”, International Conference on Information Science, Signal Processing and Their Applications, 2012.
 [ [<span style="color:blue;">pdf</span>](AN OPTIMUM MMSE.pdf) ]
 
-17. Bahaadini S., Sameti H., **Khorram S.**, *“Implementation and Evaluation of Statistical Parametric Speech Synthesis Methods for the Persian Language”*, IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2011.
+17. Bahaadini S., Sameti H., **Khorram S.**, “Implementation and Evaluation of Statistical Parametric Speech Synthesis Methods for the Persian Language”, IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2011.
 [ [<span style="color:blue;">pdf</span>](IMPLEMENTATION AND EVALUATION.pdf) ]
 
-18. **Khorram S.**, Sameti H., Veisi H., *“LP-Based Over-Sampled Subband Adaptive Noise Canceller for Speech Enhancement in Diffuse Noise Fields”*, 9th IEEE International Conference on Signal Processing (ICSP), 2008.
+18. **Khorram S.**, Sameti H., Veisi H., “LP-Based Over-Sampled Subband Adaptive Noise Canceller for Speech Enhancement in Diffuse Noise Fields”, 9th IEEE International Conference on Signal Processing (ICSP), 2008.
 [ [<span style="color:blue;">pdf</span>](lp_based.pdf) ]
 
-19. **Khorram S.**, Sameti H., Veisi H., Abutalebi H. R., *“A New Lattice LP-based Post-filter for Adaptive Noise Cancellers in Mobile and Vehicular Applications”*, 8th IEEE Symposium on Signal Processing and Information Theory, 2008.
+19. **Khorram S.**, Sameti H., Veisi H., Abutalebi H. R., “A New Lattice LP-based Post-filter for Adaptive Noise Cancellers in Mobile and Vehicular Applications”, 8th IEEE Symposium on Signal Processing and Information Theory, 2008.
 [ [<span style="color:blue;">pdf</span>](a new lattice.pdf) ]
