@@ -20,9 +20,7 @@ Research Interests
 ------------------
 
 * Deep Learning (CNN, LSTM/GRU, Deformable CNN, GAN, Attention, Transformer)
-
 * Speech Processing (Emotion Recognition/Affective Computing, Speech Separation, Speech Enhancement, Speech Synthesis)
-
 * Machine Learning, Pattern Recognition, Graphical Models (HMM, CRF)
 
 Leadership and Awards
@@ -31,6 +29,7 @@ Leadership and Awards
 * Managed 18 students in the task of labeling speaker/gender information of the UTD forensic speaker recognition project in 2019.
 * Supervised 22 students of the University of Michigan in a 2-year period (07/2016–08/2018) for annotating emotion labels of the PRIORI Emotion Dataset. The collected dataset contains 42 hours of telephonic conversations of subjects with bipolar disorder.
 * Received two conference travel awards from the University of Michigan in 2016.
+* Received a scholarship award from the ASR Gooyesh Pardaz Company to participate in a research program at the Center for Speech Technology Research (CSTR), the University of Edinburgh.
 * Qualified and competent project manager in ASR-Gooyesh Pardaz Company in 2012.
 * Ranked first among Computer Architecture M.Sc. students of the Sharif University of Technology in 2009.
 * Ranked second among Computer Hardware Engineering B.Sc. students of the Shahid Bahonar University in 2006.
