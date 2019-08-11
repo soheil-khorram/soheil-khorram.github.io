@@ -23,15 +23,15 @@ Research Interests
 
 * Speech Processing (Emotion Recognition/Affective Computing, Speech Separation, Speech Enhancement, Speech Synthesis)
 
-􏰀* Machine Learning, Pattern Recognition, Graphical Models (HMM, CRF)
+* Machine Learning, Pattern Recognition, Graphical Models (HMM, CRF)
 
 Leadership and AWARDS
 ---------------------
 
 * Managed 18 students in the task of labeling speaker/gender information of the UTD forensic speaker recognition project in 2019.
-􏰀* Supervised 22 students of the University of Michigan in a 2-year period (07/2016–08/2018) for annotating emotion labels of the PRIORI Emotion Dataset. The collected dataset contains 42 hours of telephonic conversations of subjects with bipolar disorder.
-􏰀* Received two conference travel awards from the University of Michigan in 2016.
-􏰀* Qualified and competent project manager in ASR-Gooyesh Pardaz Company in 2012.
-􏰀* Ranked first among Computer Architecture M.Sc. students of the Sharif University of Technology in 2009.
-􏰀* Ranked second among Computer Hardware Engineering B.Sc. students of the Shahid Bahonar University in 2006.
-􏰀* Ranked second among 8998 participants of the Iranian nationwide graduate school entrance exam in the field of Computer Engineering (Computer Architecture), in 2006.
+* Supervised 22 students of the University of Michigan in a 2-year period (07/2016–08/2018) for annotating emotion labels of the PRIORI Emotion Dataset. The collected dataset contains 42 hours of telephonic conversations of subjects with bipolar disorder.
+* Received two conference travel awards from the University of Michigan in 2016.
+* Qualified and competent project manager in ASR-Gooyesh Pardaz Company in 2012.
+* Ranked first among Computer Architecture M.Sc. students of the Sharif University of Technology in 2009.
+* Ranked second among Computer Hardware Engineering B.Sc. students of the Shahid Bahonar University in 2006.
+* Ranked second among 8998 participants of the Iranian nationwide graduate school entrance exam in the field of Computer Engineering (Computer Architecture), in 2006.
