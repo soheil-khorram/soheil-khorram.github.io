@@ -25,7 +25,7 @@ Research Interests
 
 * Machine Learning, Pattern Recognition, Graphical Models (HMM, CRF)
 
-Leadership and AWARDS
+Leadership and Awards
 ---------------------
 
 * Managed 18 students in the task of labeling speaker/gender information of the UTD forensic speaker recognition project in 2019.
