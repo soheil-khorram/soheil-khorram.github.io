@@ -11,7 +11,7 @@ Journal Papers
 
 1. **Khorram S.**, McInnis M., Provost E. M., “Jointly Aligning and Predicting Continuous Emotion Annotations”, IEEE Transactions on Affective Computing, 2019.
 [ [<span style="color:blue;">pdf</span>](jointly aligning.pdf) ]
-[ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/MDS-network) ]
+[ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/MDS-network) ]
 
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., “Designing and Recording a Speech Database for Persian TTS Systems”, Journal of Comparative Linguistic Researches, 2017 (In Persian).
 [ [<span style="color:blue;">pdf</span>](designing and recording.pdf) ]
@@ -30,15 +30,15 @@ Conference Papers
 
 1. Yousefi M., **Khorram S.**, Hansen J., “Probabilistic Permutation Invariant Training for Speech Separation”, Interspeech, 2019.
 [ [<span style="color:blue;">pdf</span>](Probabilistic_Permutation_Invariant.pdf) ]
-[ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/Prob-PIT) ]
+[ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/Prob-PIT) ]
 
 2. Nursadul M., **Khorram S.**, Hansen J., “Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”, Interspeech, 2019.
 [ [<span style="color:blue;">pdf</span>](convolutional_neural_network_based.pdf) ]
-[ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/DNN-based-speech-enhancement) ]
+[ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/DNN-based-speech-enhancement) ]
 
 3. **Khorram S.**, McInnis M., Provost E. M., “Trainable Time Warping: Aligning Time-Series in the Continuous-Time Domain”, ICASSP, 2019.
 [ [<span style="color:blue;">pdf</span>](Trainable_Time_Warping.pdf) ]
-[ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/TTW) ]
+[ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/TTW) ]
 
 4. Zhang B., **Khorram S.**, Provost E. M., “Exploiting Acoustic and Lexical Properties of Phonemes to Recognize Valence from Speech”, ICASSP, 2019.
 [ [<span style="color:blue;">pdf</span>](exploiting_acoustic_and_lexical_properties.pdf) ]
@@ -51,7 +51,7 @@ Conference Papers
 
 7. **Khorram S.**, Aldeneh Z., Dimitriadis D., McInnis M., Provost E. M., “Capturing Long-term Temporal Dependencies with Convolutional Networks for Continuous Emotion Recognition”, Interspeech 2017.
 [ [<span style="color:blue;">pdf</span>](capturing-long-term.pdf) ]
-[ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/neural-network) ]
+[ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/neural-network) ]
 
 8. Gideon J., **Khorram S.**, Aldeneh Z., McInnis M., Provost E. M., “Progressive Neural Networks for Transfer Learning in EmotionRecognition”, Interspeech 2017.
 [ [<span style="color:blue;">pdf</span>](progressive.pdf) ]

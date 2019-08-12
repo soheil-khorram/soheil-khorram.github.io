@@ -14,12 +14,12 @@ An important question in developing DNN-based speech enhancement systems for CI 
 
 * ### CNN-based speech enhancement in CI auditory space
 To improve speech enhancement methods for CI users, I developed a set of convolutional neural network (CNN)-based speech enhancement systems in a cochlear filter-bank feature space, a feature-set specifically designed for CI users based on CI auditory stimuli. In this project, I tested three different CNN architectures: (1) vanilla CNN that directly generates the enhanced signal; (2) spectral-subtraction-style CNN (SS-CNN) that first predicts noise and then generates the enhanced signal by subtracting noise from the noisy signal; (3) Wiener-style CNN that generates an optimal mask for suppressing noise. Results showed that Wiener-style CNN provides a better speech enhancement system and It also outperforms the traditional speech enhancement systems.
-[ [<span style="color:blue;">pdf</span>](convolutional_neural_network_based.pdf) ]
+[ [<span style="color:blue;">pdf</span>](../publications/convolutional_neural_network_based.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/DNN-based-speech-enhancement) ]
 
 * ### Speech separation using probabilistic PIT
 Probabilistic permutation invariant training (Prob-PIT) improves and extends the conventional PIT for DNN-based speech separation systems. Prob-PIT considers the output-label permutation as a discrete latent random variable with a uniform prior distribution; all possible permutations have the same prior probability. It defines a log-likelihood function based on the prior distributions and the separation errors of all permutations. I showed that this structure can be easily implemented by replacing the minimum function of PIT with a soft-minimum function. Experimental results showed that Prob-PIT provides a smoother optimization landscape in the training phase of the separator network; therefore it can smooth out many local minima of the trining optimization landscape and lead to a better speech separator network.
-[ [<span style="color:blue;">pdf</span>](Probabilistic_Permutation_Invariant.pdf) ]
+[ [<span style="color:blue;">pdf</span>](../publications/Probabilistic_Permutation_Invariant.pdf) ]
 [ [<span style="color:green;">code</span>](https://code.com/soheil-khorram/Prob-PIT) ]
 
 
