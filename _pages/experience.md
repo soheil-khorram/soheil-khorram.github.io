@@ -3,6 +3,7 @@ permalink: /experience/
 title: "Experience"
 excerpt: "Experience"
 author_profile: true
+layout: archive
 ---
 
 Speech Enhancement/Separation
