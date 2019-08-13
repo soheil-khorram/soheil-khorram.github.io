@@ -6,6 +6,8 @@ author_profile: true
 layout: archive
 ---
 
+---
+
 Speech Enhancement/Separation
 -----------------------------
 
@@ -19,6 +21,8 @@ To improve speech enhancement methods for CI users, I developed a set of convolu
 * ### Speech separation using probabilistic PIT
 Probabilistic permutation invariant training (Prob-PIT) improves and extends the conventional PIT for DNN-based speech separation systems. Prob-PIT considers the output-label permutation as a discrete latent random variable with a uniform prior distribution; all possible permutations have the same prior probability. It defines a log-likelihood function based on the prior distributions and the separation errors of all permutations. I showed that this structure can be easily implemented by replacing the minimum function of PIT with a soft-minimum function. Experimental results showed that Prob-PIT provides a smoother optimization landscape in the training phase of the separator network; therefore it can smooth out many local minima of the trining optimization landscape and lead to a better speech separator network.
 [ [<span style="color:blue;">read more + code</span> ](https://github.com/soheil-khorram/Prob-PIT) ]
+
+---
 
 Emotion Recognition
 -----------------------------
@@ -36,8 +40,7 @@ In this project, I showed that capturing long-term temporal dependencies is crit
 Many paralinguistic tasks are closely related and thus representations learned in one domain can be leveraged for another. In this project, I studied how knowledge can be transferred between three paralinguistic tasks: speaker, emotion, and gender recognition. Further, I extended this problem to cross-dataset tasks, asking how knowledge captured in one emotion dataset can be transferred to another. My main focus was on progressive neural networks and I compared these networks to the conventional deep learning methods of pre-training and fine-tuning. Experiments demonstrated that: (1) emotion recognition can benefit from using representations originally learned for different paralinguistic tasks and (2) transfer learning can effectively leverage additional datasets to improve the performance of emotion recognition systems.
 [ [<span style="color:blue;">read more</span> ](progressive.pdf) ]
 
-
-
+---
 
 
 Mood Recognition
