@@ -13,7 +13,7 @@ Journal Papers
 [ [<span style="color:blue;">pdf</span>](jointly aligning.pdf) ]
 [ [<span style="color:green;">code</span>](https://github.com/soheil-khorram/MDS-network) ]
 
-2. Taheri M., **Khorram S.**, Assi M., Sameti H., and Bijankhan M., “Designing and Recording a Speech Database for Persian TTS Systems”, Journal of Comparative Linguistic Researches, 2017 (In Persian).
+2. Taheri M., **Khorram S.**, Assi M., Sameti H., Bijankhan M., “Designing and Recording a Speech Database for Persian TTS Systems”, Journal of Comparative Linguistic Researches, 2017 (In Persian).
 [ [<span style="color:blue;">pdf</span>](designing and recording.pdf) ]
 
 3. **Khorram S.**, Sameti H., King S., “Soft Context Clustering for F0 Modeling in HMM-Based Speech Synthesis”, EURASIP Journal on Advances in Signal Processing, 2015.
@@ -56,7 +56,7 @@ Conference Papers
 8. Gideon J., **Khorram S.**, Aldeneh Z., McInnis M., Provost E. M., “Progressive Neural Networks for Transfer Learning in EmotionRecognition”, Interspeech 2017.
 [ [<span style="color:blue;">pdf</span>](progressive.pdf) ]
 
-9. Gideon J., Zhang B., Aldeneh Z., Kim Y., **Khorram S.**, Le D., and Provost E. M., “Wild Wild Emotion: A Multimodal Ensemble Approach”, 18th ACM International Conference on Multimodal Interaction (ICMI), 2016.
+9. Gideon J., Zhang B., Aldeneh Z., Kim Y., **Khorram S.**, Le D., Provost E. M., “Wild Wild Emotion: A Multimodal Ensemble Approach”, 18th ACM International Conference on Multimodal Interaction (ICMI), 2016.
 [ [<span style="color:blue;">pdf</span>](wild-wild-emotion.pdf) ]
 
 10. **Khorram S.**, Gideon J., McInnis M., Provost E. M., “Recognition of Depression in Bipolar Disorder: Leveraging Cohort and Person-Specific Knowledge”, Interspeech, 2016.
