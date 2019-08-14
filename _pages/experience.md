@@ -58,13 +58,13 @@ In this project, I showed that capturing long-term temporal dependencies is crit
 [ <span style="color:green;"><a href="#top">back to top</a></span> ]
 
 <a name="pnn"></a>
-* ### Progressive neural networks for transfer learning in computational paralinguistics [ <span style="color:green;"><a href="#top">back to top</a></span> ]
+* ### Progressive neural networks for transfer learning in computational paralinguistics
 Many paralinguistic tasks are closely related and thus representations learned in one domain can be leveraged for another. In this project, I studied how knowledge can be transferred between three paralinguistic tasks: speaker, emotion, and gender recognition. Further, I extended this problem to cross-dataset tasks, asking how knowledge captured in one emotion dataset can be transferred to another. My main focus was on progressive neural networks and I compared these networks to the conventional deep learning methods of pre-training and fine-tuning. Experiments demonstrated that: (1) emotion recognition can benefit from using representations originally learned for different paralinguistic tasks and (2) transfer learning can effectively leverage additional datasets to improve the performance of emotion recognition systems.
 [ [<span style="color:blue;">read more</span>](progressive.pdf) ]
 [ <span style="color:green;"><a href="#top">back to top</a></span> ]
 
 <a name="multimodal"></a>
-* ### Multimodal emotion recognition from speech and text [ <span style="color:green;"><a href="#top">back to top</a></span> ]
+* ### Multimodal emotion recognition from speech and text
 In this project, I explored different ways of representing text and also different network architectures for combining text and speech representations. I used two common ways of representing text: (1) word2vec features and (2) a sequence of one-hot vectors that represent word's phonemes. I also tested different neural network architectures for combining two modalities including feature level fusion and intermediate level fusion techniques. For combining representations obtained from different modalities, I investigated various functions including summation, concatenation, multiplication and outer product functions.
 [ [<span style="color:blue;">paper1</span>](exploiting_acoustic_and_lexical_properties.pdf) ]
 [ [<span style="color:blue;">paper2</span>](pooling.pdf) ]
