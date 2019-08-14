@@ -24,6 +24,8 @@ layout: archive
 
 ### Mood Recognition
 
+* ### Linking mood to emotion detected in-the-wild <font size="-0.5"><span style="color:blue;"><a href="#linking-mood-emotion">[read more]</a></span></font>
+
 ### Statistical Parametric Speech Synthesis
 
 ### Text-To-Speech
@@ -62,7 +64,7 @@ Continuous emotion labels are generally not synchronized with the input speech s
 
 <a name="priori-emd"></a>
 * ### PRIORI Emotion Dataset: a large-scale emotional and conversational speech dataset
-In this project, I designed and supervised the collection of a new in the wild emotion dataset, the PRIORI Emotion Dataset. This dataset is collected from everyday smartphone conversational speech recordings. The dataset is unique in that it has a high proportion of emotional segments of speech and is the only in the wild telephonic dataset, annotated for emotion. The dataset contains 42 hours of speech with the average of 4 labels per segment. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+In this project, I designed and supervised the collection of a new in the wild emotion dataset, the PRIORI Emotion Dataset. This dataset is collected from everyday smartphone conversational speech recordings. The dataset is unique in that it has a high proportion of emotional segments of speech and is the only in the wild telephonic dataset, annotated for emotion. The dataset contains 42 hours of speech with the average of 4 labels per segment. The annotation process of this dataset is ongoing. After annotation concludes, this dataset will be released to the community due to its potential to impact the field of affective computing. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 <a name="lr-nets"></a>
 * ### Recognizing continuous emotion labels using large receptive field networks
@@ -79,6 +81,10 @@ In this project, I explored different ways of representing text and also differe
 
 Mood Recognition
 ----------------
+<a name="linking-mood-emotion"></a>
+* ### Linking mood to emotion detected in-the-wild
+Bipolar disorder is a chronic psychiatric illness characterized by pathological mood swings associated with severe disruptions in emotion regulation. Clinical monitoring of mood is key to the care of these dynamic and incapacitating mood states. Speech characteristics change during both depressed and manic states, suggesting automatic methods applied to the speech signal can be effectively used to monitor mood state changes. However, speech is modulated by many factors, which renders mood state prediction challenging. In this project, I used emotion as an intermediary step to improve mood state (depression and mania) prediction. I trained a CNN model for dimensional emotion recognition and showed that the predicted emotion labels have high correlation with both YMRS and HamD measures (YMRS and HamD are two measures that are often used to quantify mood).
+[<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 
 Statistical Parametric Speech Synthesis
