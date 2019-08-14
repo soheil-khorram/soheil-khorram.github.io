@@ -9,7 +9,7 @@ layout: archive
 Journal Papers
 --------------
 
-1. **Khorram S.**, McInnis M., Provost E. M., “Jointly Aligning and Predicting Continuous Emotion Annotations”, IEEE Transactions on Affective Computing, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](jointly aligning.pdf) [<font size="-0.5"><span style="color:green;">[pdf]</span></font>](https://github.com/soheil-khorram/MDS-network)
+1. **Khorram S.**, McInnis M., Provost E. M., “Jointly Aligning and Predicting Continuous Emotion Annotations”, IEEE Transactions on Affective Computing, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](jointly aligning.pdf) [<font size="-0.5"><span style="color:green;">[code]</span></font>](https://github.com/soheil-khorram/MDS-network)
 
 2. Taheri M., **Khorram S.**, Assi M., Sameti H., Bijankhan M., “Designing and Recording a Speech Database for Persian TTS Systems”, Journal of Comparative Linguistic Researches, 2017 (In Persian). [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](designing and recording.pdf)
 
@@ -22,11 +22,11 @@ Journal Papers
 Conference Papers
 -----------------
 
-1. Yousefi M., **Khorram S.**, Hansen J., “Probabilistic Permutation Invariant Training for Speech Separation”, Interspeech, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](Probabilistic_Permutation_Invariant.pdf) [<font size="-0.5"><span style="color:green;">[pdf]</span></font>](https://github.com/soheil-khorram/Prob-PIT)
+1. Yousefi M., **Khorram S.**, Hansen J., “Probabilistic Permutation Invariant Training for Speech Separation”, Interspeech, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](Probabilistic_Permutation_Invariant.pdf) [<font size="-0.5"><span style="color:green;">[code]</span></font>](https://github.com/soheil-khorram/Prob-PIT)
 
-2. Nursadul M., **Khorram S.**, Hansen J., “Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”, Interspeech, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](convolutional_neural_network_based.pdf) [<font size="-0.5"><span style="color:green;">[pdf]</span></font>](https://github.com/soheil-khorram/DNN-based-speech-enhancement)
+2. Nursadul M., **Khorram S.**, Hansen J., “Convolutional Neural Network-based Speech Enhancement for Cochlear Implant Recipients”, Interspeech, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](convolutional_neural_network_based.pdf) [<font size="-0.5"><span style="color:green;">[code]</span></font>](https://github.com/soheil-khorram/DNN-based-speech-enhancement)
 
-3. **Khorram S.**, McInnis M., Provost E. M., “Trainable Time Warping: Aligning Time-Series in the Continuous-Time Domain”, ICASSP, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](Trainable_Time_Warping.pdf) [<font size="-0.5"><span style="color:green;">[pdf]</span></font>](https://github.com/soheil-khorram/TTW)
+3. **Khorram S.**, McInnis M., Provost E. M., “Trainable Time Warping: Aligning Time-Series in the Continuous-Time Domain”, ICASSP, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](Trainable_Time_Warping.pdf) [<font size="-0.5"><span style="color:green;">[code]</span></font>](https://github.com/soheil-khorram/TTW)
 
 4. Zhang B., **Khorram S.**, Provost E. M., “Exploiting Acoustic and Lexical Properties of Phonemes to Recognize Valence from Speech”, ICASSP, 2019. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](exploiting_acoustic_and_lexical_properties.pdf)
 
@@ -34,7 +34,7 @@ Conference Papers
 
 6. Aldeneh Z., **Khorram S.**, Dimitriadis D., Provost E. M., “Pooling Acoustic and Lexical Features for the Prediction of Valence”, 19th ACM International Conference on Multimodal Interaction (ICMI), 2017. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](pooling.pdf)
 
-7. **Khorram S.**, Aldeneh Z., Dimitriadis D., McInnis M., Provost E. M., “Capturing Long-term Temporal Dependencies with Convolutional Networks for Continuous Emotion Recognition”, Interspeech 2017. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](capturing-long-term.pdf) [<font size="-0.5"><span style="color:green;">[pdf]</span></font>](https://github.com/soheil-khorram/neural-network)
+7. **Khorram S.**, Aldeneh Z., Dimitriadis D., McInnis M., Provost E. M., “Capturing Long-term Temporal Dependencies with Convolutional Networks for Continuous Emotion Recognition”, Interspeech 2017. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](capturing-long-term.pdf) [<font size="-0.5"><span style="color:green;">[code]</span></font>](https://github.com/soheil-khorram/neural-network)
 
 8. Gideon J., **Khorram S.**, Aldeneh Z., McInnis M., Provost E. M., “Progressive Neural Networks for Transfer Learning in EmotionRecognition”, Interspeech 2017. [<font size="-0.5"><span style="color:blue;">[pdf]</span></font>](progressive.pdf)
 
