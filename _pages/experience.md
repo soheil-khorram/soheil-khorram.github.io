@@ -10,13 +10,13 @@ layout: archive
 
 ### Speech Enhancement/Separation
 
-* GAN-based speech enhancement for CI users <font size="-1">[ <span style="color:blue;"><a href="#gan-enhancement">read more</a></span> ]</font>
-* CNN-based speech enhancement in CI auditory space [ <span style="color:blue;"><a href="#cnn-enhancement">read more</a></span> ]
-* Speech separation using probabilistic PIT [ <span style="color:blue;"><a href="#pit">read more</a></span> ]
+* GAN-based speech enhancement for CI users <font size="-1"><span style="color:blue;"><a href="#gan-enhancement">[read more]</a></span></font>
+* CNN-based speech enhancement in CI auditory space <font size="-0.75"><span style="color:blue;"><a href="#cnn-enhancement">[read more]</a></span></font>
+* Speech separation using probabilistic PIT <font size="-0.5"><span style="color:blue;"><a href="#pit">[read more]</a></span></font>
 
 ### Emotion Recognition
 
-* Recognizing continuous emotion labels using MDS network [ <span style="color:blue;"><a href="#mds-net">read more</a></span> ]
+* Recognizing continuous emotion labels using MDS network <font size="-0.25"><span style="color:blue;"><a href="#mds-net">[read more]</a></span></font>
 * Recognizing continuous emotion labels using large receptive field networks [ <span style="color:blue;"><a href="#lr-nets">read more</a></span> ]
 * Progressive neural networks for transfer learning in computational paralinguistics [ <span style="color:blue;"><a href="#pnn">read more</a></span> ]
 * Multimodal emotion recognition from speech and text [ <span style="color:blue;"><a href="#multimodal">read more</a></span> ]
