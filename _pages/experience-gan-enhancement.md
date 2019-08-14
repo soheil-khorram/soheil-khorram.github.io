@@ -9,7 +9,7 @@ layout: archive
 Speech Enhancement/Separation
 -----------------------------
 
-Take me to <a href="#pookie">pookie</a>
+Take me to [<span style="color:blue;"><a href="#pookie">pookie</a></span>
 
 * ### GAN-based speech enhancement for CI users [ [<span style="color:blue;">less</span>](/experience/) ]
 
@@ -56,7 +56,10 @@ Statistical Parametric Speech Synthesis
 Statistical Parametric Speech Synthesis
 ---------------------------------------
 
+
 <a name="pookie">this is pookie</a>
+
+
 
 Statistical Parametric Speech Synthesis
 ---------------------------------------
