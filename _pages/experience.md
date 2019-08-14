@@ -25,6 +25,7 @@ layout: archive
 ### Mood Recognition
 
 * Linking mood to emotion detected in-the-wild <font size="-0.5"><span style="color:blue;"><a href="#linking-mood-emotion">[read more]</a></span></font>
+* Leveraging cohort and person-specific knowledge in depression recognition <font size="-0.5"><span style="color:blue;"><a href="#cohort">[read more]</a></span></font>
 
 ### Statistical Parametric Speech Synthesis
 
@@ -76,16 +77,17 @@ Many paralinguistic tasks are closely related and thus representations learned i
 
 <a name="multimodal"></a>
 * ### Multimodal emotion recognition from speech and text
-In this project, I explored different ways of representing text and also different network architectures for combining text and speech representations. I used two common ways of representing text: (1) word2vec features and (2) a sequence of one-hot vectors that represent word's phonemes. I also tested different neural networks for combining two modalities including feature level and intermediate level fusion techniques. For combining representations obtained from different modalities, I investigated various functions including summation, concatenation, multiplication and outer product functions.
-[<font size="-0.5"><span style="color:blue;">[paper1]</span></font>](exploiting_acoustic_and_lexical_properties.pdf) [<font size="-0.5"><span style="color:blue;">[paper2]</span></font>](pooling.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+In this project, I explored different ways of representing text and also different network architectures for combining text and speech representations. I used two common ways of representing text: (1) word2vec features and (2) a sequence of one-hot vectors that represent word's phonemes. I also tested different neural networks for combining two modalities including feature level and intermediate level fusion techniques. For combining representations obtained from different modalities, I investigated various functions including summation, concatenation, multiplication and outer product functions. [<font size="-0.5"><span style="color:blue;">[paper1]</span></font>](exploiting_acoustic_and_lexical_properties.pdf) [<font size="-0.5"><span style="color:blue;">[paper2]</span></font>](pooling.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 Mood Recognition
 ----------------
 <a name="linking-mood-emotion"></a>
 * ### Linking mood to emotion detected in-the-wild
-Bipolar disorder is a chronic psychiatric illness characterized by pathological mood swings associated with severe disruptions in emotion regulation. Clinical monitoring of mood is key to the care of these dynamic and incapacitating mood states. Speech characteristics change during both depressed and manic states, suggesting automatic methods applied to the speech signal can be effectively used to monitor mood state changes. However, speech is modulated by many factors, which renders mood state prediction challenging. In this project, I used emotion as an intermediary step to improve mood state (depression and mania) prediction. I trained a CNN model for dimensional emotion recognition and showed that the predicted emotion labels have high correlation with both YMRS and HamD measures (YMRS and HamD are two measures that are often used to quantify mood).
-[<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+Bipolar disorder is a chronic psychiatric illness characterized by pathological mood swings associated with severe disruptions in emotion regulation. Clinical monitoring of mood is key to the care of these dynamic and incapacitating mood states. Speech characteristics change during both depressed and manic states, suggesting automatic methods applied to the speech signal can be effectively used to monitor mood state changes. However, speech is modulated by many factors, which renders mood state prediction challenging. In this project, I used emotion as an intermediary step to improve mood state (depression and mania) prediction. I trained a CNN model for dimensional emotion recognition and showed that the predicted emotion labels have high correlation with both YMRS and HamD measures (YMRS and HamD are two measures that are often used to quantify mood). [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
+<a name="cohort"></a>
+* Leveraging cohort and person-specific knowledge in depression recognition
+Mood prediction systems generally assume that the symptomatology of an individual can be modeled using patterns common in a cohort population due to limitations in the size of available datasets. However, individuals are unique. This paper explores person-level systems that can be developed from the current PRIORI database of an extensive and longitudinal collection composed of two subsets: a smaller labeled portion and a larger unlabeled portion. The person-level system employs the unlabeled portion to extract i-vectors, which characterize single individuals. The labeled portion is then used to train person-level and population-level supervised classifiers, operating on the i-vectors and on speech rhythm statistics, respectively. The unification of these two approaches results in a significant improvement over the baseline system, demonstrating the importance of a multi-level approach to capturing depression symptomatology [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](depression.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 Statistical Parametric Speech Synthesis
 ---------------------------------------
