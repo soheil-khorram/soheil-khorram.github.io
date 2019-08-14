@@ -62,7 +62,7 @@ Continuous emotion labels are generally not synchronized with the input speech s
 
 <a name="priori-emd"></a>
 * ### PRIORI Emotion Dataset: a large-scale emotional and conversational speech dataset
-In this project, I designed and supervised the collection of a new in the wild emotion dataset, the PRIORI Emotion Dataset. This dataset is collected from everyday smartphone conversational speech recordings. The dataset is unique in that it has a high proportion of emotional segments of speech and is the only in the wild telephonic dataset, annotated for emotion. The dataset contains more than 40 hours of speech with the average of 4 labels per segment. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+In this project, I designed and supervised the collection of a new in the wild emotion dataset, the PRIORI Emotion Dataset. This dataset is collected from everyday smartphone conversational speech recordings. The dataset is unique in that it has a high proportion of emotional segments of speech and is the only in the wild telephonic dataset, annotated for emotion. The dataset contains 42 hours of speech with the average of 4 labels per segment. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 <a name="lr-nets"></a>
 * ### Recognizing continuous emotion labels using large receptive field networks
