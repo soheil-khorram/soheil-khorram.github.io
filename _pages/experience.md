@@ -24,7 +24,7 @@ layout: archive
 
 ### Mood Recognition
 
-* ### Linking mood to emotion detected in-the-wild <font size="-0.5"><span style="color:blue;"><a href="#linking-mood-emotion">[read more]</a></span></font>
+* Linking mood to emotion detected in-the-wild <font size="-0.5"><span style="color:blue;"><a href="#linking-mood-emotion">[read more]</a></span></font>
 
 ### Statistical Parametric Speech Synthesis
 
