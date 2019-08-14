@@ -41,7 +41,7 @@ An important question in developing DNN-based speech enhancement systems for CI 
 <a name="cnn-enhancement"></a>
 * ### CNN-based speech enhancement in CI auditory space
 To improve speech enhancement methods for CI users, I developed a set of convolutional neural network (CNN)-based speech enhancement systems in a cochlear filter-bank feature space, a feature-set specifically designed for CI users based on CI auditory stimuli. In this project, I tested three different CNN architectures: (1) vanilla CNN that directly generates the enhanced signal; (2) spectral-subtraction-style CNN (SS-CNN) that first predicts noise and then generates the enhanced signal by subtracting noise from the noisy signal; (3) Wiener-style CNN that generates an optimal mask for suppressing noise. Results showed that Wiener-style CNN provides a better speech enhancement system and It also outperforms the traditional speech enhancement systems.
-[<font size="-0.5"><span style="color:blue;">[read more + code]</span><font size="-0.5">](https://github.com/soheil-khorram/DNN-based-speech-enhancement)
+[<font size="-0.5"><span style="color:blue;">[read more + code]</span></font>](https://github.com/soheil-khorram/DNN-based-speech-enhancement)
 <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 <a name="pit"></a>
