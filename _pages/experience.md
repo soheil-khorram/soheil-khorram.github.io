@@ -31,7 +31,7 @@ layout: archive
 
 * Soft context clustering for F0 modeling in HMM-based speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#soft-clustering">[read more]</a></span></font>
 * Hidden maximum entropy model for statistical parametric speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#hmem">[read more]</a></span></font>
-* Developing text-to-speech systems for the Persian language<font size="-0.5"><span style="color:blue;"><a href="#persian-tts">[read more]</a></span></font>
+* Developing text-to-speech systems for the Persian language <font size="-0.5"><span style="color:blue;"><a href="#persian-tts">[read more]</a></span></font>
 
 <br />
 
