@@ -17,10 +17,10 @@ layout: archive
 ### Emotion Recognition
 
 * Recognizing continuous emotion labels using MDS network <font size="-0.5"><span style="color:blue;"><a href="#mds-net">[read more]</a></span></font>
+* PRIORI Emotion Dataset: a large-scale emotional and conversational speech dataset <font size="-0.5"><span style="color:blue;"><a href="#priori-emd">[read more]</a></span></font>
 * Recognizing continuous emotion labels using large receptive field networks <font size="-0.5"><span style="color:blue;"><a href="#lr-nets">[read more]</a></span></font>
 * Progressive neural networks for transfer learning in computational paralinguistics <font size="-0.5"><span style="color:blue;"><a href="#pnn">[read more]</a></span></font>
 * Multimodal emotion recognition from speech and text <font size="-0.5"><span style="color:blue;"><a href="#multimodal">[read more]</a></span></font>
-* PRIORI Emotion Dataset: a large-scale conversational speech dataset with emotion labels <font size="-0.5"><span style="color:blue;"><a href="#priori-emd">[read more]</a></span></font>
 
 ### Mood Recognition
 
@@ -61,7 +61,7 @@ Emotion Recognition
 Continuous emotion labels are generally not synchronized with the input speech signal due to delays caused by reaction-time, which is inherent in human evaluations. In order to train neural networks for continuous emotion recognition, a common method is to first compensate for the reaction-time delays by aligning continuous emotion labels with the speech signals. This approach assumes that the delay compensation and the emotion recognition are independent, yet they significantly depend on each other. To deal with this challenge, I introduced a new convolutional neural network, multi-delay sinc (MDS) network, that is able to simultaneously align and predict labels in an end-to-end manner. The proposed network is a stack of convolutional layers followed by an aligner network that aligns the speech signal and emotion labels. This network is implemented using a new convolutional layer that I introduced, the delayed sinc layer. It is a time-shifted low-pass (sinc) filter that uses a gradient-based algorithm to learn a single delay. I tested the efficacy of this system on two common emotion datasets, RECOLA (AVEC2016) and SEWA (AVEC2017), and showed that this approach obtains state-of-the-art speech-only results by learning time-varying delays while predicting dimensional descriptors of emotions. [<font size="-0.5"><span style="color:blue;">[read more + code]</span></font>](https://github.com/soheil-khorram/MDS-network) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 <a name="priori-emd"></a>
-* ### PRIORI Emotion Dataset: a large-scale conversational speech dataset with emotion labels
+* ### PRIORI Emotion Dataset: a large-scale emotional and conversational speech dataset
 In this project, I designed and supervised the collection of a new in the wild emotion dataset, the PRIORI Emotion Dataset. This dataset is collected from everyday smartphone conversational speech recordings. The dataset is unique in that it has a high proportion of emotional segments of speech and is the only in the wild telephonic dataset, annotated for emotion. The dataset contains more than 40 hours of speech with the average of 4 labels per segment. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](BPD_Emotion.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 <a name="lr-nets"></a>
