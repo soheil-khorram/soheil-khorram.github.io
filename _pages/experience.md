@@ -27,9 +27,11 @@ layout: archive
 * Linking mood to emotion detected in-the-wild <font size="-0.5"><span style="color:blue;"><a href="#linking-mood-emotion">[read more]</a></span></font>
 * Leveraging cohort and person-specific knowledge in depression recognition <font size="-0.5"><span style="color:blue;"><a href="#cohort">[read more]</a></span></font>
 
-### Statistical Parametric Speech Synthesis
-
 ### Text-To-Speech
+
+* Soft context clustering for F0 modeling in HMM-based speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#soft-clustering">[read more]</a></span></font>
+* Hidden maximum entropy model for statistical parametric speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#hmem">[read more]</a></span></font>
+* Developing text-to-speech systems for the Persian language<font size="-0.5"><span style="color:blue;"><a href="#persian-tts">[read more]</a></span></font>
 
 <br />
 
@@ -89,9 +91,17 @@ Bipolar disorder is a chronic psychiatric illness characterized by pathological 
 * ### Leveraging cohort and person-specific knowledge in depression recognition
 Mood prediction systems generally assume that the symptomatology of an individual can be modeled using patterns common in a cohort population due to limitations in the size of available datasets. However, individuals are unique. This paper explores person-level systems that can be developed from the current PRIORI database of an extensive and longitudinal collection composed of two subsets: a smaller labeled portion and a larger unlabeled portion. The person-level system employs the unlabeled portion to extract i-vectors, which characterize single individuals. The labeled portion is then used to train person-level and population-level supervised classifiers, operating on the i-vectors and on speech rhythm statistics, respectively. The unification of these two approaches results in a significant improvement over the baseline system, demonstrating the importance of a multi-level approach to capturing depression symptomatology. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](depression.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
-Statistical Parametric Speech Synthesis
----------------------------------------
-
-
 Text-To-Speech
 ---------------------------------------
+<a name="soft-clustering"></a>
+* ### Soft context clustering for F0 modeling in HMM-based speech synthesis
+In this project, I proposed and developed a soft decision-tree model that improves the generalization ability of the conventional hard decision-tree structures. The proposed tree is a binary tree with soft decisions at the internal nodes; these internal nodes select both their children with certain membership degrees; therefore, each node can be viewed as a fuzzy set with a context-dependent membership function. soft decision-tree assigns each training sample to multiple overlapped leaves
+and therefore it improves model generalization and also provides a better function approximator. I applied the proposed structure in modeling F0 trajectories of a HMM-based speech synthesis system. Both subjective and objective evaluations confirm the superiority of the proposed soft-decision tree over the conventional hard trees. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](soft context clustering.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+
+<a name="hmem"></a>
+* ### Hidden maximum entropy model for statistical parametric speech synthesis
+Decision tree-clustered context-dependent hidden semi-Markov models (HSMMs) are typically used in HSMM-based speech synthesis to represent probability densities of acoustic features given contextual factors. This project addresses three major limitations of this decision tree-based structure: (1) the decision tree structure lacks adequate context generalization; (2) it is unable to express complex context dependencies. (3) parameters generated from this structure represent sudden transitions between adjacent states. In order to alleviate these limitations, many papers applied multiple decision trees with an additive assumption over those trees. Similarly, in the current project, I used multiple decision trees as well, but instead of the additive assumption, I proposed to train the smoothest distribution by maximizing the entropy measure. Obviously, increasing the smoothness of the distribution improves the context generalization. The proposed model, named hidden maximum entropy model (HMEM), estimates a distribution that maximizes entropy subject to multiple moment-based constraints. All evaluation results of my experiments confirm significant improvement of the proposed system over the conventional HSMM. [<font size="-0.5"><span style="color:blue;">[read more]</span></font>](context-dependent acoustic.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
+
+<a name="persian-tts"></a>
+* ### Developing text-to-speech systems for the Persian language
+Scattered and little research in the field of Persian speech synthesis systems has been performed. In this project, I implemented and evaluated several text-to-speech systems for the Persian language. To this end, I designed and supervised the collection process of the ARIANA speech synthesis database containing more than 4 hours of transcribed speech signals. I then developed several speech synthesis systems using the collected dataset including (1) a cluster unit selection speech synthesis using Festival/Festvox/Speech tools, (2) a clustergen statistical parametric speech synthesis, and (3) an HSMM-based speech synthesis with the GV-based parameter generation and the STRAIGHT vocoder. In this project, I also worked on different NLP parts of the Persian TTS including Homograph disambiguation using CRF, letter to phoneme conversion using HMEM, and prosody modeling using CART trees. [<font size="-0.5"><span style="color:blue;">[paper1]</span></font>](spectral modeling.pdf) [<font size="-0.5"><span style="color:blue;">[paper2]</span></font>](IMPLEMENTATION AND EVALUATION.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>  
