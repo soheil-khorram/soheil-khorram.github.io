@@ -6,15 +6,16 @@ author_profile: true
 layout: archive
 ---
 
+[link](#markdown-header-asd)
 ### [Speech Enhancement/Separation](## Speech Enhancement/Separation)
 #### [GAN-based speech enhancement for CI users](### CNN-based speech enhancement in CI auditory space)
 #### [CNN-based speech enhancement in CI auditory space](### Speech separation using probabilistic PIT)
-#### Speech separation using probabilistic PIT
-### Emotion Recognition
-#### Recognizing continuous emotion labels using MDS network
-#### Recognizing continuous emotion labels using large receptive field networks
-#### Progressive neural networks for transfer learning in computational paralinguistics
-#### Multimodal emotion recognition from speech and text
+#### [Speech separation using probabilistic PIT](### Speech separation using probabilistic PIT)
+### [Emotion Recognition](## Emotion Recognition)
+#### [Recognizing continuous emotion labels using MDS network](### Recognizing continuous emotion labels using MDS network)
+#### [Recognizing continuous emotion labels using large receptive field networks](### Recognizing continuous emotion labels using large receptive field networks)
+#### [Progressive neural networks for transfer learning in computational paralinguistics](### Progressive neural networks for transfer learning in computational paralinguistics)
+#### [Multimodal emotion recognition from speech and text](### Multimodal emotion recognition from speech and text)
 
 
 ## Speech Enhancement/Separation
@@ -54,6 +55,7 @@ In this project, I explored different ways of representing text and also differe
 Mood Recognition
 ----------------
 
+#asd
 
 Statistical Parametric Speech Synthesis
 ---------------------------------------
