@@ -27,7 +27,9 @@ Mood Recognition
 
 Statistical Parametric Speech Synthesis
 ---------------------------------------
+[ [<span style="color:blue;">read more + code</span>](https://soheil-khorram.github.io/experience-all/) ]
 
+[ [<span style="color:blue;">read moreads + code</span>](/experience-all/) ]
 
 Text-To-Speech
 ---------------------------------------
