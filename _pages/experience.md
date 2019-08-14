@@ -74,7 +74,7 @@ Many paralinguistic tasks are closely related and thus representations learned i
 
 <a name="multimodal"></a>
 * ### Multimodal emotion recognition from speech and text
-In this project, I explored different ways of representing text and also different network architectures for combining text and speech representations. I used two common ways of representing text: (1) word2vec features and (2) a sequence of one-hot vectors that represent word's phonemes. I also tested different neural network architectures for combining two modalities including feature level fusion and intermediate level fusion techniques. For combining representations obtained from different modalities, I investigated various functions including summation, concatenation, multiplication and outer product functions.
+In this project, I explored different ways of representing text and also different network architectures for combining text and speech representations. I used two common ways of representing text: (1) word2vec features and (2) a sequence of one-hot vectors that represent word's phonemes. I also tested different neural networks for combining two modalities including feature level and intermediate level fusion techniques. For combining representations obtained from different modalities, I investigated various functions including summation, concatenation, multiplication and outer product functions.
 [<font size="-0.5"><span style="color:blue;">[paper1]</span></font>](exploiting_acoustic_and_lexical_properties.pdf) [<font size="-0.5"><span style="color:blue;">[paper2]</span></font>](pooling.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>
 
 Mood Recognition
