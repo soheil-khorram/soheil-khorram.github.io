@@ -10,7 +10,7 @@ layout: archive
 
 ### Speech Enhancement/Separation
 
-* GAN-based speech enhancement for CI users [ <span style="color:blue;"><a href="#gan-enhancement">read more</a></span> ]
+* GAN-based speech enhancement for CI users [ <span style="color:blue;"><font size="-1"><a href="#gan-enhancement">read more</a></font></span> ]
 * CNN-based speech enhancement in CI auditory space [ <span style="color:blue;"><a href="#cnn-enhancement">read more</a></span> ]
 * Speech separation using probabilistic PIT [ <span style="color:blue;"><a href="#pit">read more</a></span> ]
 
