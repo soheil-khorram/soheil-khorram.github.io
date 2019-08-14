@@ -9,7 +9,7 @@ layout: archive
 Speech Enhancement/Separation
 -----------------------------
 
-Take me to [<span style="color:blue;"><a href="#pookie">pookie</a></span>
+Take me to <span style="color:blue;"><a href="#pookie">pookie</a></span>
 
 * ### GAN-based speech enhancement for CI users [ [<span style="color:blue;">less</span>](/experience/) ]
 
