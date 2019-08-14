@@ -6,4 +6,4 @@ author_profile: true
 layout: single
 ---
 
-Available in PDF format: [ [<span style="color:blue;">download CV</span>](CV-Soheil-Khorram.pdf) ]
+Available in PDF format: [<font size="-0.5"><span style="color:blue;">[download CV]</span></font>](CV-Soheil-Khorram.pdf)
