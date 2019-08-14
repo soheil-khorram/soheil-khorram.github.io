@@ -36,7 +36,7 @@ To improve speech enhancement methods for CI users, I developed a set of convolu
 [ <span style="color:green;"><a href="#top">back to top</a></span> ]
 
 <a name="pit"></a>
-* ### Speech separation using probabilistic PIT [ <span style="color:green;"><a href="#top">back to top</a></span> ]
+* ### Speech separation using probabilistic PIT
 Probabilistic permutation invariant training (Prob-PIT) improves and extends the conventional PIT for DNN-based speech separation systems. Prob-PIT considers the output-label permutation as a discrete latent random variable with a uniform prior distribution; all possible permutations have the same prior probability. It defines a log-likelihood function based on the prior distributions and the separation errors of all permutations. I showed that this structure can be easily implemented by replacing the minimum function of PIT with a soft-minimum function. Experimental results showed that Prob-PIT provides a smoother optimization landscape in the training phase of the separator network; therefore it can smooth out many local minima of the trining optimization landscape and lead to a better speech separator network.
 [ [<span style="color:blue;">read more + code</span>](https://github.com/soheil-khorram/Prob-PIT) ]
 [ <span style="color:green;"><a href="#top">back to top</a></span> ]
