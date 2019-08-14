@@ -6,7 +6,7 @@ author_profile: true
 layout: archive
 ---
 <a name="top"></a>
-## Experience
+# Experience
 ### Speech Enhancement/Separation
 * GAN-based speech enhancement for CI users [ <span style="color:blue;"><a href="#gan-enhancement">read more</a></span> ]
 * CNN-based speech enhancement in CI auditory space [ <span style="color:blue;"><a href="#cnn-enhancement">read more</a></span> ]
