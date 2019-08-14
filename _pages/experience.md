@@ -7,20 +7,29 @@ layout: archive
 ---
 <a name="top"></a>
 # Experience
+
 ### Speech Enhancement/Separation
+
 * GAN-based speech enhancement for CI users [ <span style="color:blue;"><a href="#gan-enhancement">read more</a></span> ]
 * CNN-based speech enhancement in CI auditory space [ <span style="color:blue;"><a href="#cnn-enhancement">read more</a></span> ]
 * Speech separation using probabilistic PIT [ <span style="color:blue;"><a href="#pit">read more</a></span> ]
+
 ### Emotion Recognition
+
 * Recognizing continuous emotion labels using MDS network [ <span style="color:blue;"><a href="#mds-net">read more</a></span> ]
 * Recognizing continuous emotion labels using large receptive field networks [ <span style="color:blue;"><a href="#lr-nets">read more</a></span> ]
 * Progressive neural networks for transfer learning in computational paralinguistics [ <span style="color:blue;"><a href="#pnn">read more</a></span> ]
 * Multimodal emotion recognition from speech and text [ <span style="color:blue;"><a href="#multimodal">read more</a></span> ]
+
 ### Mood Recognition
+
 ### Statistical Parametric Speech Synthesis
+
 ### Text-To-Speech
 
 ---
+
+# Experience
 
 Speech Enhancement/Separation
 -----------------------------
