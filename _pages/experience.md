@@ -15,11 +15,10 @@ Speech Enhancement/Separation
 
 Emotion Recognition
 -----------------------------
-
-* ### Recognizing continuous emotion labels using MDS network
-* ### Recognizing continuous emotion labels using large receptive field networks
-* ### Progressive neural networks for transfer learning in computational paralinguistics
-* ### Multimodal emotion recognition from speech and text
+### Recognizing continuous emotion labels using MDS network
+### Recognizing continuous emotion labels using large receptive field networks
+### Progressive neural networks for transfer learning in computational paralinguistics
+### Multimodal emotion recognition from speech and text
 
 Mood Recognition
 ----------------
