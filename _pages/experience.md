@@ -32,6 +32,7 @@ layout: archive
 * Soft context clustering for F0 modeling in HMM-based speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#soft-clustering">[read more]</a></span></font>
 * Hidden maximum entropy model for statistical parametric speech synthesis <font size="-0.5"><span style="color:blue;"><a href="#hmem">[read more]</a></span></font>
 * Developing text-to-speech systems for the Persian language <font size="-0.5"><span style="color:blue;"><a href="#persian-tts">[read more]</a></span></font>
+* Synthesized speech samples <font size="-0.5"><span style="color:blue;"><a href="#synthesized-samples">[read more]</a></span></font>
 
 <br />
 
@@ -106,4 +107,65 @@ Decision tree-clustered context-dependent hidden semi-Markov models (HSMMs) are 
 * ### Developing text-to-speech systems for the Persian language
 Scattered and little research in the field of Persian speech synthesis systems has been performed. In this project, I implemented and evaluated several text-to-speech systems for the Persian language. To this end, I designed and supervised the collection process of the ARIANA speech synthesis database containing more than 4 hours of transcribed speech signals. I then developed several speech synthesis systems using the collected dataset including (1) a cluster unit selection speech synthesis using Festival/Festvox/Speech tools, (2) a clustergen statistical parametric speech synthesis, and (3) an HSMM-based speech synthesis with the GV-based parameter generation and the STRAIGHT vocoder. In this project, I also worked on different NLP parts of the Persian TTS including Homograph disambiguation using CRF, letter to phoneme conversion using HMEM, and prosody modeling using CART trees. [<font size="-0.5"><span style="color:blue;">[paper1]</span></font>](../publications/spectral modeling.pdf) [<font size="-0.5"><span style="color:blue;">[paper2]</span></font>](../publications/IMPLEMENTATION AND EVALUATION.pdf) <font size="-0.5"><span style="color:green;"><a href="#top">[back to top]</a></span></font>  
 
+<a name="synthesized-samples"></a>
+* ### Synthesized speech samples
+
+Clustergen:
+
+<audio src="../audio/clustergen1.wav" controls></audio>
+
+<audio src="../audio/clustergen2.wav" controls></audio>
+
+<audio src="../audio/clustergen3.wav" controls></audio>
+
+<audio src="../audio/clustergen4.wav" controls></audio>
+
+HTS:
+
 <audio src="../audio/HTS1.wav" controls></audio>
+
+<audio src="../audio/HTS2.wav" controls></audio>
+
+<audio src="../audio/HTS3.wav" controls></audio>
+
+<audio src="../audio/HTS4.wav" controls></audio>
+
+Cluster unit selection:
+
+<audio src="../audio/clunit1.wav" controls></audio>
+
+<audio src="../audio/clunit2.wav" controls></audio>
+
+<audio src="../audio/clunit3.wav" controls></audio>
+
+<audio src="../audio/clunit4.wav" controls></audio>
+
+STRAIGHT:
+
+<audio src="../audio/STRAIGHT1.wav" controls></audio>
+
+<audio src="../audio/STRAIGHT2.wav" controls></audio>
+
+<audio src="../audio/STRAIGHT3.wav" controls></audio>
+
+<audio src="../audio/STRAIGHT4.wav" controls></audio>
+
+Natural:
+
+<audio src="../audio/natural1.wav" controls></audio>
+
+<audio src="../audio/natural2.wav" controls></audio>
+
+<audio src="../audio/natural3.wav" controls></audio>
+
+<audio src="../audio/natural4.wav" controls></audio>
+
+Female DSM:
+
+<audio src="../audio/female1.wav" controls></audio>
+
+<audio src="../audio/female2.wav" controls></audio>
+
+<audio src="../audio/female3.wav" controls></audio>
+
+<audio src="../audio/female4.wav" controls></audio>
