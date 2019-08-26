@@ -110,7 +110,7 @@ Scattered and little research in the field of Persian speech synthesis systems h
 <a name="synthesized-samples"></a>
 * ### Synthesized speech samples
 
-Clustergen:
+    * Clustergen:
 
 <audio src="../audio/clustergen1.wav" controls></audio>
 
@@ -120,7 +120,7 @@ Clustergen:
 
 <audio src="../audio/clustergen4.wav" controls></audio>
 
-HTS:
+    * HTS:
 
 <audio src="../audio/HTS1.wav" controls></audio>
 
@@ -130,7 +130,7 @@ HTS:
 
 <audio src="../audio/HTS4.wav" controls></audio>
 
-Cluster unit selection:
+    * Cluster unit selection:
 
 <audio src="../audio/clunit1.wav" controls></audio>
 
@@ -140,7 +140,7 @@ Cluster unit selection:
 
 <audio src="../audio/clunit4.wav" controls></audio>
 
-STRAIGHT:
+    * STRAIGHT:
 
 <audio src="../audio/STRAIGHT1.wav" controls></audio>
 
@@ -150,7 +150,7 @@ STRAIGHT:
 
 <audio src="../audio/STRAIGHT4.wav" controls></audio>
 
-Natural:
+    * Natural:
 
 <audio src="../audio/natural1.wav" controls></audio>
 
@@ -160,7 +160,7 @@ Natural:
 
 <audio src="../audio/natural4.wav" controls></audio>
 
-Female DSM:
+    * Female DSM:
 
 <audio src="../audio/female1.wav" controls></audio>
 
